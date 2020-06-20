@@ -11,7 +11,9 @@
 }
 
 .footer{
-    background-color: #D1C4E9;
+    /* background-color: #D1C4E9; */
+    /* background-color: #BB86FC; */
+    background-color: #c8c2ff;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -19,7 +21,8 @@
 .jumbotron{
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    /* background-color: #9575CD; */
+    /* background-color: #c3073f; */
+    background-color: #6200EE;
     color: floralwhite;
 }
 
@@ -27,4 +30,17 @@
     font-size: 80%;
     margin: 0px;
     color: #0f0f0f;
+}
+
+p{
+ text-align: justify;
+}
+
+body{
+    padding: 50px 0px 0px 0px ; 
+    z-index: 0;
+}
+
+.navbar-dark{
+    background-color: #3700B3;
 }
