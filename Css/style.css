@@ -44,3 +44,19 @@ body{
 .navbar-dark{
     background-color: #3700B3;
 }
+
+.tablehome {
+ 
+    margin-bottom: 20px ;
+    /* margin-top: 20px ;  */
+  
+    width: ;
+ }
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+
+}
