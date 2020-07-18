@@ -34,13 +34,13 @@ $carousel-item-height: 300px;
             }
             
             .footer{
-                background-color: $background-pale;
+                background-color: $#c8c2ff;
                 @include zero-margin(20px, 0px);
             }
             
             .jumbotron {
                 @include zero-margin(70px,30px);
-                background: $background-light ;
+                background: $#6200EE;
                 color:floralwhite;
             }
             
@@ -104,3 +104,4 @@ $carousel-item-height: 300px;
                     color: $floral-white;
                     opacity: 1;
                 }
+                
